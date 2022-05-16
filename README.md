@@ -12,6 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 - 😄 : Glad to see u : ) 
-- 这是我的简历:  [ZAKLLL](https://visiky.github.io/resume/?user=ZAKLLL)
+<!-- - 这是我的简历:  [ZAKLLL](https://visiky.github.io/resume/?user=ZAKLLL) -->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ZAKLLL)]()
